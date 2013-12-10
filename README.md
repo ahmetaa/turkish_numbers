@@ -17,4 +17,4 @@ Usage Example:
   Output:
     
   101 = yüz bir
-  yüz on bir = 111  
+  yüz on bir = 111
