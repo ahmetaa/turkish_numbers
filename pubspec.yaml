@@ -1,0 +1,9 @@
+name: turkish_numbers
+version: 0.1.0
+author: Ahmet A. Akın <ahmetaa@gmail.com>
+description: Turkish number-text conversions
+homepage: https://github.com/ahmetaa/turkish_numbers
+environment:
+  sdk: '>=0.8.10+6 <2.0.0'
+dev_dependencies:
+  unittest: '>=0.9.0 <0.10.0'
